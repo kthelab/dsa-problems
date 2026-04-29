@@ -38,7 +38,7 @@ Data Structures & Algorithms/binary-search/submission-0.ts
 
 ---
 
-## Ill be using mostly
+## I'll be using mostly
 
 | Language | Extension |
 |---|---|
